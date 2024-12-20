@@ -1,0 +1,3998 @@
+{
+    "Climate related data": {
+        "Gross Scope 1 GHG emissions": {
+            "Cr\u00e9dit Agricole": {
+                "page": 164,
+                "paragraph": "5.5 MESURES LI\u00c9ES \u00c0 L\u2019EMPREINTE ENVIRONNEMENTALE\nLI\u00c9E AU FONCTIONNEMENT DE CR\u00c9DIT AGRICOLE S.A.",
+                "value": 26434,
+                "unit": "tCO2e",
+                "extract": "\u00c9MISSIONS DE GAZ \u00c0 EFFET DE SERRE (GES)",
+                "extract_type": "tableau"
+            },
+            "BNP": {
+                "page": 696,
+                "paragraph": "7 engagement 1",
+                "value": 25437,
+                "unit": "tCO2e",
+                "extract": "R\u00c9PARTITION DE CES \u00c9MISSIONS PAR SCOPE DU GHG PROTOCOLE/ISO EN TCO2",
+                "extract_type": "graphique"
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": 23,
+                "paragraph": 6,
+                "value": 61,
+                "unit": "tonne \u00e9quivalent CO2",
+                "extract": "\u00c9volutions des \u00e9missions de CO\u2082 (tonnes \u00e9quivalent CO\u2082) P\u00e9rim\u00e8tre Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Assurances",
+                "extract_type": "tableau "
+            },
+            "Schneider Electric": {
+                "page": 312,
+                "paragraph": "2.8 ",
+                "value": 112792,
+                "unit": "tCO2e",
+                "extract": "Gaz \u00e0 effet de serre (GES)",
+                "extract_type": "tableau "
+            },
+            "Michelin": {
+                "page": 183,
+                "paragraph": "4.1.1 a)",
+                "value": 1.04,
+                "unit": "millions de tonnes de CO2",
+                "extract": "INVENTAIRE DES \u00c9MISSIONS DE CO2 SCOPES\u00a01, 2 ET 3",
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": 33,
+                "paragraph": "2.1.4.1",
+                "value": 782709,
+                "unit": "tCO2e",
+                "extract": "Scopes 1 et 2 : contribuer \u00e0 la neutralit\u00e9 carbone des magasins int\u00e9gr\u00e9s en 2040",
+                "extract_type": "tableau "
+            },
+            "Dassault syst\u00e8me": {
+                "page": 114,
+                "paragraph": "4.7.4",
+                "value": 27186,
+                "unit": "tCO2e",
+                "extract": "Renforcer le plan bas carbone Soci\u00e9t\u00e9 en coh\u00e9rence avec les enjeux climatiques",
+                "extract_type": "tableau "
+            },
+            "Engie": {
+                "page": 113,
+                "paragraph": "3.5.4.1",
+                "value": 24496514,
+                "unit": "tCO2e",
+                "extract": "\u00c9missions directes",
+                "extract_type": "tableau "
+            },
+            "Sanofi": {
+                "page": 189,
+                "paragraph": "3.3.9.3.1",
+                "value": 297700,
+                "unit": "tCO2e",
+                "extract": "Gaz \u00e0 effet de serre",
+                "extract_type": "tableau "
+            },
+            "Danone": {
+                "page": 184,
+                "paragraph": "5.3 Nature",
+                "value": 573,
+                "unit": "ktCO2e",
+                "extract": "\u00c9missions des scopes\u00a01 et 2 (\u00e9nergie et industrie), bas\u00e9 sur le march\u00e9",
+                "extract_type": "tableau"
+            },
+            "Renault ": {
+                "page": 121,
+                "paragraph": "2.2.2.1.3.2",
+                "value": 412439,
+                "unit": "tCO2e",
+                "extract": "R\u00e9partition des \u00e9missions de GES par cat\u00e9gorie du Greenhouse Gas Protocol(2023)(1)",
+                "extract_type": "tableau "
+            },
+            "TAG AG": {
+                "page": 113,
+                "paragraph": "key figures",
+                "value": 59235,
+                "unit": "tCO2e",
+                "extract": "Carbon footprint",
+                "extract_type": "tableau "
+            },
+            "Pearson": {
+                "page": 50,
+                "paragraph": "Metrics and targets",
+                "value": 4661,
+                "unit": "tCO2e",
+                "extract": "Our emissions data",
+                "extract_type": "tableau "
+            },
+            "Vinci Autoroutes": {
+                "page": 255,
+                "paragraph": "\u00c9volution de la consommation d\u2019\u00e9nergies renouvelables",
+                "value": 2.2,
+                "unit": "MtCO2e",
+                "extract": "En 2023, selon l\u2019approche market-based, 2,4 millions de tonnes de CO2 ont \u00e9t\u00e9 \u00e9mises, dont 2,2 millions de tonnes de CO2 pour le scope 1 et 0,2 million de tonnes de CO2 pour le scope 2",
+                "extract_type": "texte"
+            },
+            "Amer Sports": {
+                "page": 47,
+                "paragraph": "Greenhouse gas (GHG) emissions",
+                "value": 14687,
+                "unit": "tCO2e",
+                "extract": "Greenhouse gas (GHG) emissions",
+                "extract_type": "tableau "
+            },
+            "Abertis": {
+                "page": 67,
+                "paragraph": "7.2.2",
+                "value": 45074,
+                "unit": "tCO2e",
+                "extract": "Given the nature of Abertis\u2019 activity, most of the GHG emissions are indirect (scope 3) and are related to the use of \ngoods and services. Most of the Group\u2019s direct (scope 1) emissions are from the consumption of fossil fuels in the vehicle \nfleet and generators, while the scope 2 emissions are from the electricity consumed in the Group\u2019s operations and the \nprojects it manages. During 2023, GHG emissions (not including emissions from the use of sold products and services) \ntotalled 639,815 tonnes of CO2e, 16.7% less than the previous year. Of that total, 45,074 tonnes were scope 1, 18,154 \ntonnes were scope 2 and 576,587 tonnes were scope 3",
+                "extract_type": "texte"
+            },
+            "Accor": {
+                "page": 134,
+                "paragraph": 3,
+                "value": 703,
+                "unit": "ktCO2e",
+                "extract": "Breakdown by scope of Accor\u2019s carbon footprint in 2023",
+                "extract_type": "graphe"
+            },
+            "CMA CGM": {
+                "page": 78,
+                "paragraph": "3.Appendice",
+                "value": 25.54,
+                "unit": "MtCO2",
+                "extract": "Acting for the planet",
+                "extract_type": "tableau "
+            },
+            "Eurazeo": {
+                "page": 47,
+                "paragraph": "3.2",
+                "value": 51,
+                "unit": "tCO2e",
+                "extract": "Rejets de GES (en tonnes \u00e9quivalent CO )",
+                "extract_type": "tableau "
+            },
+            "JCDecaux": {
+                "page": 69,
+                "paragraph": 2,
+                "value": 23,
+                "unit": "kteqCO2",
+                "extract": "Measurement of the Group\u2019s carbon emissions",
+                "extract_type": "tableau "
+            },
+            "Zalando": {
+                "page": 58,
+                "paragraph": "Appedix",
+                "value": 5193,
+                "unit": "tCO2e",
+                "extract": "Key figures",
+                "extract_type": "tableau "
+            },
+            "Unilever": {
+                "page": 50,
+                "paragraph": "Note 2",
+                "value": 0.62,
+                "unit": "MtCO2e",
+                "extract": "Notes on metrics and targets Note 1: Analysis of GHG emissions",
+                "extract_type": "tableau "
+            },
+            "Siemens": {
+                "page": 60,
+                "paragraph": "4.1",
+                "value": 387,
+                "unit": "kteqCO2",
+                "extract": "Greenhouse gas emissions1",
+                "extract_type": "tableau "
+            },
+            "Merck": {
+                "page": 212,
+                "paragraph": "Indicators",
+                "value": 1236,
+                "unit": "kteqCO2",
+                "extract": "Total greenhouse gas emissions (Scope 1 and 2 of the GHG Protocol)1, 2",
+                "extract_type": "tableau "
+            },
+            "L'Oreal": {
+                "page": 223,
+                "paragraph": "4.3.1.4.1.",
+                "value": 66.1,
+                "unit": "kteqCO2",
+                "extract": "\u00c9missions de CO2 en 2023 (Scopes 1, 2 et 3) sur l\u2019ensemble du p\u00e9rim\u00e8tre du Groupe",
+                "extract_type": "tableau "
+            },
+            "Infineon": {
+                "page": 32,
+                "paragraph": "Greenhouse gas emissions",
+                "value": 246126,
+                "unit": "tCO2e",
+                "extract": "Our scope 1 emissions in the 2023 fiscal year totaled 246,126 tons of CO2 equivalents",
+                "extract_type": "Texte"
+            }
+        },
+        "Gross Scope 2 GHG emissions (market based)": {
+            "Cr\u00e9dit Agricole": {
+                "page": 164,
+                "paragraph": "5.5 MESURES LI\u00c9ES \u00c0 L\u2019EMPREINTE ENVIRONNEMENTALE\nLI\u00c9E AU FONCTIONNEMENT DE CR\u00c9DIT AGRICOLE S.A.",
+                "value": 20683,
+                "unit": "tCO2e",
+                "extract": "\u00c9MISSIONS DE GAZ \u00c0 EFFET DE SERRE (GES)",
+                "extract_type": "tableau"
+            },
+            "BNP": {
+                "page": 696,
+                "paragraph": "7 engaement 1",
+                "value": 137287,
+                "unit": "tCO2e",
+                "extract": "R\u00c9PARTITION DE CES \u00c9MISSIONS PAR SCOPE DU GHG PROTOCOLE/ISO EN TCO2",
+                "extract_type": "graphique"
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": 23,
+                "paragraph": 6,
+                "value": 598,
+                "unit": "tonne \u00e9quivalent CO2",
+                "extract": "\u00c9volutions des \u00e9missions de CO\u2082 (tonnes \u00e9quivalent CO\u2082) P\u00e9rim\u00e8tre Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Assurances",
+                "extract_type": "tableau"
+            },
+            "Schneider Electric": {
+                "page": 312,
+                "paragraph": "2.8",
+                "value": 89440,
+                "unit": "tCO2e",
+                "extract": "Gaz \u00e0 effet de serre (GES)",
+                "extract_type": "tableau "
+            },
+            "Michelin": {
+                "page": 183,
+                "paragraph": "4.1.1 a)",
+                "value": 1.27,
+                "unit": "millions de tonnes de CO2",
+                "extract": "INVENTAIRE DES \u00c9MISSIONS DE CO2 SCOPES\u00a01, 2 ET 3",
+                "extract_type": "tableau "
+            },
+            "Carrefour": {
+                "page": 33,
+                "paragraph": "2.1.4.1",
+                "value": 626321,
+                "unit": "tCO2e",
+                "extract": "Scopes 1 et 2 : contribuer \u00e0 la neutralit\u00e9 carbone des magasins int\u00e9gr\u00e9s en 2040",
+                "extract_type": "tableau"
+            },
+            "Dassault syst\u00e8me": {
+                "page": 114,
+                "paragraph": "4.7.4",
+                "value": 18706,
+                "unit": "tCO2e",
+                "extract": "Renforcer le plan bas carbone Soci\u00e9t\u00e9 en coh\u00e9rence avec les enjeux climatiques",
+                "extract_type": "tableau "
+            },
+            "Engie": {
+                "page": 113,
+                "paragraph": "3.5.4.1",
+                "value": 847043,
+                "unit": "tCO2e",
+                "extract": "\u00c9missions indirectes",
+                "extract_type": "tableau"
+            },
+            "Sanofi": {
+                "page": 189,
+                "paragraph": "3.3.9.3.1",
+                "value": 109367,
+                "unit": "tCO2e",
+                "extract": "Gaz \u00e0 effet de serre",
+                "extract_type": "tableau"
+            },
+            "Danone": {
+                "page": 184,
+                "paragraph": "5.3 Nature",
+                "value": 256,
+                "unit": "ktCO2e",
+                "extract": "\u00c9missions des scopes\u00a01 et 2 (\u00e9nergie et industrie), bas\u00e9 sur le march\u00e9",
+                "extract_type": "tableau"
+            },
+            "Renault ": {
+                "page": 121,
+                "paragraph": "2.2.2.1.3.2",
+                "value": 173707,
+                "unit": "tCO2e",
+                "extract": "R\u00e9partition des \u00e9missions de GES par cat\u00e9gorie du Greenhouse Gas Protocol(2023)(1)",
+                "extract_type": "tableau "
+            },
+            "TAG AG": {
+                "page": 113,
+                "paragraph": "key figures",
+                "value": 75014,
+                "unit": "tCO2e",
+                "extract": "Carbon footprint",
+                "extract_type": "tableau "
+            },
+            "Pearson": {
+                "page": 50,
+                "paragraph": "Metrics and targets",
+                "value": 14,
+                "unit": "tCO2e",
+                "extract": "Our emissions data",
+                "extract_type": "tableau "
+            },
+            "Vinci Autoroutes": {
+                "page": 255,
+                "paragraph": "\u00c9volution de la consommation d\u2019\u00e9nergies renouvelables",
+                "value": 0.2,
+                "unit": "MtCO2e",
+                "extract": "En 2023, selon l\u2019approche market-based, 2,4 millions de tonnes de CO2 ont \u00e9t\u00e9 \u00e9mises, dont 2,2 millions de tonnes de CO2 pour le scope 1 et 0,2 million de tonnes de CO2 pour le scope 2",
+                "extract_type": "texte"
+            },
+            "Amer Sports": {
+                "page": 47,
+                "paragraph": "Greenhouse gas (GHG) emissions",
+                "value": 22580,
+                "unit": "tCO2e",
+                "extract": "Greenhouse gas (GHG) emissions",
+                "extract_type": "tableau "
+            },
+            "Abertis": {
+                "page": 67,
+                "paragraph": "7.2.2",
+                "value": 18154,
+                "unit": "tCO2e",
+                "extract": "Given the nature of Abertis\u2019 activity, most of the GHG emissions are indirect (scope 3) and are related to the use of \ngoods and services. Most of the Group\u2019s direct (scope 1) emissions are from the consumption of fossil fuels in the vehicle \nfleet and generators, while the scope 2 emissions are from the electricity consumed in the Group\u2019s operations and the \nprojects it manages. During 2023, GHG emissions (not including emissions from the use of sold products and services) \ntotalled 639,815 tonnes of CO2e, 16.7% less than the previous year. Of that total, 45,074 tonnes were scope 1, 18,154 \ntonnes were scope 2 and 576,587 tonnes were scope 3.",
+                "extract_type": "Texte"
+            },
+            "Accor": {
+                "page": 134,
+                "paragraph": 3,
+                "value": 2.94,
+                "unit": "ktCO2e",
+                "extract": "Breakdown by scope of Accor\u2019s carbon footprint in 2023",
+                "extract_type": "graphe"
+            },
+            "CMA CGM": {
+                "page": 78,
+                "paragraph": "3.Appendice",
+                "value": 0.22,
+                "unit": "MtCO2",
+                "extract": "Acting for the planet",
+                "extract_type": "tableau "
+            },
+            "Eurazeo": {
+                "page": 47,
+                "paragraph": "3.2",
+                "value": 21,
+                "unit": "tCO2e",
+                "extract": "Rejets de GES (en tonnes \u00e9quivalent CO )",
+                "extract_type": "tableau "
+            },
+            "JCDecaux": {
+                "page": 69,
+                "paragraph": 2,
+                "value": 0.9,
+                "unit": "kteqCO2",
+                "extract": "Measurement of the Group\u2019s carbon emissions",
+                "extract_type": "tableau "
+            },
+            "Zalando": {
+                "page": 58,
+                "paragraph": "Appedix",
+                "value": 884,
+                "unit": "tCO2e",
+                "extract": "Key figures",
+                "extract_type": "tableau "
+            },
+            "Unilever": {
+                "page": 50,
+                "paragraph": "Note 2",
+                "value": 0.11,
+                "unit": "MtCO2e",
+                "extract": "Notes on metrics and targets Note 1: Analysis of GHG emissions",
+                "extract_type": "tableau "
+            },
+            "Siemens": {
+                "page": 60,
+                "paragraph": "4.1",
+                "value": 163,
+                "unit": "kteqCO2",
+                "extract": "Greenhouse gas emissions1",
+                "extract_type": "tableau "
+            },
+            "Merck": {
+                "page": 212,
+                "paragraph": "Indicators",
+                "value": 227,
+                "unit": "kteqCO2",
+                "extract": "Total greenhouse gas emissions (Scope 1 and 2 of the GHG Protocol)1, 2",
+                "extract_type": "tableau "
+            },
+            "L'Oreal": {
+                "page": 223,
+                "paragraph": "4.3.1.4.1.",
+                "value": 28.3,
+                "unit": "kteqCO2",
+                "extract": "\u00c9missions de CO2 en 2023 (Scopes 1, 2 et 3) sur l\u2019ensemble du p\u00e9rim\u00e8tre du Groupe",
+                "extract_type": "tableau "
+            },
+            "Infineon": {
+                "page": 32,
+                "paragraph": "Greenhouse gas emissions",
+                "value": 254335,
+                "unit": "tCO2e",
+                "extract": "By applying the provider-specific emission factors of the energy sources used (market-based accounting), our scope 2 emissions totaled 254,335 tons of CO2 equivalents in the reporting period",
+                "extract_type": "Texte"
+            }
+        },
+        "Gross Scope 3 GHG emissions": {
+            "Cr\u00e9dit Agricole": {
+                "page": 164,
+                "paragraph": "5.5 MESURES LI\u00c9ES \u00c0 L\u2019EMPREINTE ENVIRONNEMENTALE\nLI\u00c9E AU FONCTIONNEMENT DE CR\u00c9DIT AGRICOLE S.A.",
+                "value": 29702,
+                "unit": "tCO2e",
+                "extract": "\u00c9MISSIONS DE GAZ \u00c0 EFFET DE SERRE (GES)",
+                "extract_type": "tableau"
+            },
+            "BNP": {
+                "page": 696,
+                "paragraph": "7 engagement 1",
+                "value": 122599,
+                "unit": "tCO2e",
+                "extract": "R\u00c9PARTITION DE CES \u00c9MISSIONS PAR SCOPE DU GHG PROTOCOLE/ISO EN TCO2",
+                "extract_type": "graphique"
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": 23,
+                "paragraph": 6,
+                "value": 521,
+                "unit": "tonne \u00e9quivalent CO2",
+                "extract": "\u00c9volutions des \u00e9missions de CO\u2082 (tonnes \u00e9quivalent CO\u2082) P\u00e9rim\u00e8tre Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Assurances",
+                "extract_type": "tableau"
+            },
+            "Schneider Electric": {
+                "page": 312,
+                "paragraph": "2.8",
+                "value": 56777964,
+                "unit": "tCO2e",
+                "extract": NaN,
+                "extract_type": "tableau "
+            },
+            "Michelin": {
+                "page": 183,
+                "paragraph": "4.1.1 a)",
+                "value": 13,
+                "unit": "millions de tonnes de CO2 (essentiel)",
+                "extract": "INVENTAIRE DES \u00c9MISSIONS DE CO2 SCOPES\u00a01, 2 ET 3",
+                "extract_type": "tableau "
+            },
+            "Carrefour": {
+                "page": 38,
+                "paragraph": "2.1.4.1",
+                "value": 265280,
+                "unit": "tCO2e",
+                "extract": "BILAN COMPLET DES \u00c9MISSIONS DU SCOPE\u00a03 DU GROUPE CARREFOUR",
+                "extract_type": "tableau"
+            },
+            "Dassault syst\u00e8me": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Engie": {
+                "page": 113,
+                "paragraph": "3.5.4.1",
+                "value": 133337361,
+                "unit": "tCO2e",
+                "extract": "\u00c9missions indirectes",
+                "extract_type": "tableau"
+            },
+            "Sanofi": {
+                "page": 191,
+                "paragraph": "3.3.9.3.2",
+                "value": 4041725,
+                "unit": "tCO2e",
+                "extract": "Scope 3",
+                "extract_type": "tableau "
+            },
+            "Danone": {
+                "page": 185,
+                "paragraph": "5.3 Nature",
+                "value": 20614,
+                "unit": "ktCO2e",
+                "extract": "\u00c9missions de gaz \u00e0 effet de serre sur le scope 3",
+                "extract_type": "tableau"
+            },
+            "Renault ": {
+                "page": 121,
+                "paragraph": "2.2.2.1.3.2",
+                "value": 91701039,
+                "unit": "tCO2e",
+                "extract": "R\u00e9partition des \u00e9missions de GES par cat\u00e9gorie du Greenhouse Gas Protocol(2023)(1)",
+                "extract_type": "tableau "
+            },
+            "TAG AG": {
+                "page": 113,
+                "paragraph": "key figures",
+                "value": 1235,
+                "unit": "tCO2e",
+                "extract": "Carbon footprint",
+                "extract_type": "tableau"
+            },
+            "Pearson": {
+                "page": 50,
+                "paragraph": "Metrics and targets",
+                "value": 302572,
+                "unit": "tCO2e",
+                "extract": "Our emissions data",
+                "extract_type": "tableau "
+            },
+            "Vinci Autoroutes": {
+                "page": 262,
+                "paragraph": "3.2.2.2",
+                "value": 43.5,
+                "unit": "MtCO2e",
+                "extract": NaN,
+                "extract_type": "texte"
+            },
+            "Amer Sports": {
+                "page": 47,
+                "paragraph": "Greenhouse gas (GHG) emissions",
+                "value": 657800,
+                "unit": "tCO2e",
+                "extract": "Greenhouse gas (GHG) emissions",
+                "extract_type": "tableau "
+            },
+            "Abertis": {
+                "page": 67,
+                "paragraph": "7.2.2",
+                "value": 576587,
+                "unit": "tCO2e",
+                "extract": "Given the nature of Abertis\u2019 activity, most of the GHG emissions are indirect (scope 3) and are related to the use of \ngoods and services. Most of the Group\u2019s direct (scope 1) emissions are from the consumption of fossil fuels in the vehicle \nfleet and generators, while the scope 2 emissions are from the electricity consumed in the Group\u2019s operations and the \nprojects it manages. During 2023, GHG emissions (not including emissions from the use of sold products and services) \ntotalled 639,815 tonnes of CO2e, 16.7% less than the previous year. Of that total, 45,074 tonnes were scope 1, 18,154 \ntonnes were scope 2 and 576,587 tonnes were scope 3.",
+                "extract_type": "Texte"
+            },
+            "Accor": {
+                "page": 134,
+                "paragraph": 3,
+                "value": 3.526,
+                "unit": "ktCO2e",
+                "extract": "Breakdown by scope of Accor\u2019s carbon footprint in 2023",
+                "extract_type": "graphe"
+            },
+            "CMA CGM": {
+                "page": 78,
+                "paragraph": "3.Appendice",
+                "value": 13.92,
+                "unit": "MtCO2",
+                "extract": "Acting for the planet",
+                "extract_type": "tableau "
+            },
+            "Eurazeo": {
+                "page": 47,
+                "paragraph": "3.2",
+                "value": 8182,
+                "unit": "tCO2e",
+                "extract": "Rejets de GES (en tonnes \u00e9quivalent CO )",
+                "extract_type": "tableau "
+            },
+            "JCDecaux": {
+                "page": 69,
+                "paragraph": 2,
+                "value": 215.6,
+                "unit": "kteqCO2",
+                "extract": "Measurement of the Group\u2019s carbon emissions",
+                "extract_type": "tableau "
+            },
+            "Zalando": {
+                "page": 58,
+                "paragraph": "Appedix",
+                "value": 4761289,
+                "unit": "tCO2e",
+                "extract": "Key figures",
+                "extract_type": "tableau "
+            },
+            "Unilever": {
+                "page": 50,
+                "paragraph": "Note 1",
+                "value": 52.13,
+                "unit": "MtCO2e",
+                "extract": "Notes on metrics and targets Note 1: Analysis of GHG emissions",
+                "extract_type": "tableau "
+            },
+            "Siemens": {
+                "page": 60,
+                "paragraph": "4.1",
+                "value": 483188,
+                "unit": "kteqCO2",
+                "extract": "Greenhouse gas emissions1",
+                "extract_type": "tableau "
+            },
+            "Merck": {
+                "page": 213,
+                "paragraph": "Indicators",
+                "value": 4594,
+                "unit": "kteqCO2",
+                "extract": "Other relevant indirect greenhouse gas emissions (Scope 3 of the GHG Protocol)1",
+                "extract_type": "tableau "
+            },
+            "L'Oreal": {
+                "page": 223,
+                "paragraph": "4.3.1.4.1.",
+                "value": 11406,
+                "unit": "kteqCO2",
+                "extract": "\u00c9missions de CO2 en 2023 (Scopes 1, 2 et 3) sur l\u2019ensemble du p\u00e9rim\u00e8tre du Groupe",
+                "extract_type": "tableau "
+            },
+            "Infineon": {
+                "page": 33,
+                "paragraph": "Greenhouse gas emissions",
+                "value": 2882063,
+                "unit": "tCO2e",
+                "extract": "Scope 3 emissions totaled 2,882,063 tons of CO2 equivalents",
+                "extract_type": "Texte"
+            }
+        },
+        "Gross Total GHG emissions": {
+            "Cr\u00e9dit Agricole": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "BNP": {
+                "page": 695,
+                "paragraph": "7 ou engagement 1",
+                "value": 285323,
+                "unit": "tCO2e (location based)",
+                "extract": "En 2023, le total des \u00e9missions du Groupe sur son p\u00e9rim\u00e8tre op\u00e9rationnel (\u00e9missions directes \u2013 scope 1, \u00e9missions indirectes li\u00e9es aux achats d\u2019\u00e9nergie \u2013 scope 2, et \u00e9missions indirectes li\u00e9es aux trajets professionnels) s\u2019est \u00e9lev\u00e9 \u00e0 285 323 tCO2 e (exprim\u00e9 en locationbased)",
+                "extract_type": "texte"
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": 23,
+                "paragraph": 6,
+                "value": 1179,
+                "unit": "tonne \u00e9quivalent CO2",
+                "extract": "\u00c9volutions des \u00e9missions de CO\u2082 (tonnes \u00e9quivalent CO\u2082) P\u00e9rim\u00e8tre Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Assurances",
+                "extract_type": "tableau "
+            },
+            "Schneider Electric": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Dassault syst\u00e8me": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Engie": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Sanofi": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Danone": {
+                "page": 185,
+                "paragraph": "5.3 Nature",
+                "value": 21659,
+                "unit": "ktCO2e",
+                "extract": "\u00c9missions de gaz \u00e0 effet de serre sur les scopes 1, 2 et 3",
+                "extract_type": "tableau"
+            },
+            "Renault ": {
+                "page": 121,
+                "paragraph": "2.2.2.1.3.2",
+                "value": 92287184,
+                "unit": "tCO2e",
+                "extract": "R\u00e9partition des \u00e9missions de GES par cat\u00e9gorie du Greenhouse Gas Protocol(2023)(1)",
+                "extract_type": "tableau"
+            },
+            "TAG AG": {
+                "page": 113,
+                "paragraph": "key figures",
+                "value": 133949,
+                "unit": "tCO2e",
+                "extract": "Carbon footprint",
+                "extract_type": "tableau"
+            },
+            "Pearson": {
+                "page": 50,
+                "paragraph": "Metrics and targets",
+                "value": 307247,
+                "unit": "tCO2e",
+                "extract": "Our emissions data",
+                "extract_type": "tableau "
+            },
+            "Vinci Autoroutes": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Amer Sports": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Abertis": {
+                "page": 67,
+                "paragraph": "7.2.2",
+                "value": 639815,
+                "unit": "tCO2e",
+                "extract": "Given the nature of Abertis\u2019 activity, most of the GHG emissions are indirect (scope 3) and are related to the use of \ngoods and services. Most of the Group\u2019s direct (scope 1) emissions are from the consumption of fossil fuels in the vehicle \nfleet and generators, while the scope 2 emissions are from the electricity consumed in the Group\u2019s operations and the \nprojects it manages. During 2023, GHG emissions (not including emissions from the use of sold products and services) \ntotalled 639,815 tonnes of CO2e, 16.7% less than the previous year. Of that total, 45,074 tonnes were scope 1, 18,154 \ntonnes were scope 2 and 576,587 tonnes were scope 3.",
+                "extract_type": "texte"
+            },
+            "Accor": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "CMA CGM": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Eurazeo": {
+                "page": 47,
+                "paragraph": "3.2",
+                "value": 8254,
+                "unit": "tCO2e",
+                "extract": "Rejets de GES (en tonnes \u00e9quivalent CO )",
+                "extract_type": "tableau "
+            },
+            "JCDecaux": {
+                "page": 69,
+                "paragraph": 2,
+                "value": 239.5,
+                "unit": "kteqCO2",
+                "extract": "Measurement of the Group\u2019s carbon emissions",
+                "extract_type": "tableau "
+            },
+            "Zalando": {
+                "page": 58,
+                "paragraph": "Appedix",
+                "value": 4767366,
+                "unit": "tCO2e",
+                "extract": "Key figures",
+                "extract_type": "tableau "
+            },
+            "Unilever": {
+                "page": 50,
+                "paragraph": "Note 1",
+                "value": 99.93,
+                "unit": "MtCO2e",
+                "extract": "Notes on metrics and targets Note 1: Analysis of GHG emissions",
+                "extract_type": "tableau "
+            },
+            "Siemens": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Merck": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "L'Oreal": {
+                "page": 223,
+                "paragraph": "4.3.1.4.1.",
+                "value": 11501,
+                "unit": "kteqCO2",
+                "extract": "\u00c9missions de CO2 en 2023 (Scopes 1, 2 et 3) sur l\u2019ensemble du p\u00e9rim\u00e8tre du Groupe",
+                "extract_type": "tableau "
+            },
+            "Infineon": {
+                "page": 33,
+                "paragraph": "Greenhouse gas emissions",
+                "value": 3.4,
+                "unit": "MtCO2e",
+                "extract": "The Infineon environmental footprint in the 2023 fiscal year was around 3.4 million tons of CO2 equivalents",
+                "extract_type": "Texte"
+            }
+        },
+        "Gross GHG emissions intensity": {
+            "Cr\u00e9dit Agricole": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "BNP": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Schneider Electric": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Dassault syst\u00e8me": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Engie": {
+                "page": 112,
+                "paragraph": "3.5.4.1",
+                "value": 131.4,
+                "unit": "gCO2\u00e9q./kWh",
+                "extract": "Ainsi, l\u2019intensit\u00e9 carbone de la production d\u2019\u00e9nergie en 2023 s\u2019\u00e9tablit \u00e0 131,4 gCO2\u00e9q./kWh, en diminution de 13,4% par rapport \u00e0 2022 et de 70,3% par rapport \u00e0 2012.",
+                "extract_type": "texte"
+            },
+            "Sanofi": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Danone": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Renault ": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "TAG AG": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Pearson": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Vinci Autoroutes": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Amer Sports": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Abertis": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Accor": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "CMA CGM": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Eurazeo": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "JCDecaux": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Zalando": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Unilever": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Siemens": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Merck": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "L'Oreal": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Infineon": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            }
+        }
+    },
+    "Social related data": {
+        "Headcount of employees": {
+            "Cr\u00e9dit Agricole": {
+                "page": 167,
+                "paragraph": "5.6",
+                "value": 76996,
+                "unit": "nombre",
+                "extract": "EFFECTIF PAR TYPE DE CONTRAT",
+                "extract_type": "tableau"
+            },
+            "BNP": {
+                "page": 662,
+                "paragraph": "7.3",
+                "value": 186162,
+                "unit": "nombre",
+                "extract": "\u00c9VOLUTION DES EFFECTIFS GROUPE",
+                "extract_type": "tableau"
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": 4,
+                "paragraph": 1,
+                "value": 3300,
+                "unit": "nombre",
+                "extract": "CHIFFRES CL\u00c9S",
+                "extract_type": "texte"
+            },
+            "Schneider Electric": {
+                "page": 315,
+                "paragraph": "2.8.2.2",
+                "value": 137855,
+                "unit": "nombre",
+                "extract": "Effectif ponctuel fin d\u2019ann\u00e9e",
+                "extract_type": "tableau"
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": 56,
+                "paragraph": "2.1.7.1",
+                "value": 305333,
+                "unit": "nombre",
+                "extract": "Promouvoir l\u2019emploi chez Carrefour et la transformation manag\u00e9riale",
+                "extract_type": "tableau"
+            },
+            "Dassault syst\u00e8me": {
+                "page": 95,
+                "paragraph": "4.5",
+                "value": 13533,
+                "unit": "nombre",
+                "extract": "\u00c9volution des effectifs inscrits",
+                "extract_type": "tableau"
+            },
+            "Engie": {
+                "page": 89,
+                "paragraph": "3.4.2.1.2",
+                "value": 97297,
+                "unit": "personnes",
+                "extract": "Pr\u00e9sent dans plus d'une trentaine de pays, ENGIE compte 97 297 collaborateurs \u00e0 fin d\u00e9cembre 2023.",
+                "extract_type": "texte"
+            },
+            "Sanofi": {
+                "page": 145,
+                "paragraph": "3.3.1.2.1",
+                "value": 86088,
+                "unit": "nombre",
+                "extract": "Fin 2023, les effectifs de Sanofi s\u2019\u00e9tablissaient \u00e0 86\u00a0088\u00a0personnes, apprentis compris, soit un recul de 4\u00a0% par rapport \u00e0 la fin de\u00a02022.",
+                "extract_type": "texte"
+            },
+            "Danone": {
+                "page": 207,
+                "paragraph": 5.4,
+                "value": 88739,
+                "unit": "nombre",
+                "extract": NaN,
+                "extract_type": "image"
+            },
+            "Renault ": {
+                "page": 164,
+                "paragraph": "a)",
+                "value": 105497,
+                "unit": "nombre",
+                "extract": "P\u00e9rim\u00e8tre du reporting social",
+                "extract_type": "tableau"
+            },
+            "TAG AG": {
+                "page": 115,
+                "paragraph": "key figures",
+                "value": 1299,
+                "unit": "nombre",
+                "extract": "germany",
+                "extract_type": "tableau"
+            },
+            "Pearson": {
+                "page": 55,
+                "paragraph": "Social",
+                "value": 18360,
+                "unit": "nombre",
+                "extract": "Our employees",
+                "extract_type": "tableau"
+            },
+            "Vinci Autoroutes": {
+                "page": 211,
+                "paragraph": "1.1.1",
+                "value": 279266,
+                "unit": "nombre",
+                "extract": "Effectifs",
+                "extract_type": "tableau"
+            },
+            "Amer Sports": {
+                "page": 37,
+                "paragraph": "3. people",
+                "value": 11463,
+                "unit": "nombre",
+                "extract": "Employees by gender",
+                "extract_type": "tableau"
+            },
+            "Abertis": {
+                "page": 76,
+                "paragraph": "7.3 Human Capital",
+                "value": 12429,
+                "unit": "nombre",
+                "extract": "Abertis promotes a culture of respect, equality of opportunity, inclusion and collaboration. The Group works to create a positive environment in which people can develop their capabilities, experience, knowledge and skills to achieve the excellence that will help strengthen Abertis\u2019 position as a respected player in the industry. The strategic objectives in this respect are as follows: \u2022 Ensure people\u2019s safety, health and well-being \u2022 Attract, develop and retain talent internationally in a multicultural context \u2022 Promote a team that is committed and aligned with our values \u2022 Guarantee equal opportunities At 31 December 2023, the Group\u2019s total workforce reached 12,429 employees, a figure slightly lower than the previous year, mainly due to the changes in the Group\u2019s perimeter.",
+                "extract_type": "texte"
+            },
+            "Accor": {
+                "page": 154,
+                "paragraph": "3.3.1.2",
+                "value": 336641,
+                "unit": "nombre",
+                "extract": "The number of employees working for Accor brands worldwide is estimated at around 336,641 in 2023,",
+                "extract_type": "texte"
+            },
+            "CMA CGM": {
+                "page": 79,
+                "paragraph": "3.Appendice",
+                "value": 107414,
+                "unit": "Nombre",
+                "extract": "Acting for people",
+                "extract_type": "Tableau"
+            },
+            "Eurazeo": {
+                "page": 51,
+                "paragraph": "3.3",
+                "value": 441,
+                "unit": "Nombre",
+                "extract": "Tableau des indicateurs cl\u00e9s de performance",
+                "extract_type": "Tableau"
+            },
+            "JCDecaux": {
+                "page": 81,
+                "paragraph": 2,
+                "value": 11678,
+                "unit": "Nombre",
+                "extract": "As of 31 December 2023, JCDecaux total headcount was 11,678 employees, i.e. an increase of +469 people compared to 2022 (+4.2%). This\nincrease is mainly due to +221 FTEs in the Rest of the World (including +207 FTEs in LATAM), +123 FTEs in France and +104 FTEs in the Rest\nof Europe.",
+                "extract_type": "Texte"
+            },
+            "Zalando": {
+                "page": 59,
+                "paragraph": "Appendix",
+                "value": 14976,
+                "unit": "Nombre",
+                "extract": "Key figures",
+                "extract_type": "Tableau"
+            },
+            "Unilever": {
+                "page": 187,
+                "paragraph": "4.A",
+                "value": 128000,
+                "unit": "Nombre",
+                "extract": "4A. Staff and management costs",
+                "extract_type": "Tableau"
+            },
+            "Siemens": {
+                "page": 115,
+                "paragraph": 6,
+                "value": 320000,
+                "unit": "Nombre",
+                "extract": "SOCIAL Working for Siemens1",
+                "extract_type": "Tableau"
+            },
+            "Merck": {
+                "page": 202,
+                "paragraph": "Indicators",
+                "value": 62908,
+                "unit": "Nombre",
+                "extract": "Employees by contract type",
+                "extract_type": "Tableau"
+            },
+            "L'Oreal": {
+                "page": 239,
+                "paragraph": "4.3.2",
+                "value": 90293,
+                "unit": "Nombre",
+                "extract": "R\u00c9PARTITION DES EFFECTIFS STATUTAIRES PAR TYPE DE CONTRAT PAR ZONE G\u00c9OGRAPHIQUE",
+                "extract_type": "Graphe"
+            },
+            "Infineon": {
+                "page": 25,
+                "paragraph": "Number of employees",
+                "value": 57904,
+                "unit": "Nombre",
+                "extract": "Employees by contract type",
+                "extract_type": "Tableau"
+            }
+        },
+        "Headcount of employees (breakdown by gender)": {
+            "Cr\u00e9dit Agricole": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "BNP": {
+                "page": 662,
+                "paragraph": "7.3",
+                "value": 95289,
+                "unit": "number",
+                "extract": "\u00c9VOLUTION DES EFFECTIFS GROUPE",
+                "extract_type": "tableau"
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": 4,
+                "paragraph": 1,
+                "value": 94,
+                "unit": "percentage",
+                "extract": "ENTREPRISE ET EMPLOYEUR RESPONSABLE",
+                "extract_type": "texte"
+            },
+            "Schneider Electric": {
+                "page": 316,
+                "paragraph": "2.8.2.2",
+                "value": 34,
+                "unit": "percentage",
+                "extract": "Composition de l\u2019effectif (suite)",
+                "extract_type": "tableau"
+            },
+            "Michelin": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Carrefour": {
+                "page": 58,
+                "paragraph": "2.1.7.1",
+                "value": 55,
+                "unit": "percentage",
+                "extract": "Promouvoir la diversit\u00e9 et l\u2019inclusion, lutter contre les discriminations et le harc\u00e8lement",
+                "extract_type": "tableau"
+            },
+            "Dassault syst\u00e8me": {
+                "page": 99,
+                "paragraph": "4.5",
+                "value": 18.9,
+                "unit": "percentage",
+                "extract": null,
+                "extract_type": "graphique"
+            },
+            "Engie": {
+                "page": 89,
+                "paragraph": "3.4.2.1.2",
+                "value": 25767,
+                "unit": "number",
+                "extract": "Effectifs et empreinte g\u00e9ographique",
+                "extract_type": "tableau"
+            },
+            "Sanofi": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Danone": {
+                "page": 208,
+                "paragraph": 5.4,
+                "value": 32,
+                "unit": "percentage",
+                "extract": "Pourcentage de femmes dans l\u2019organisation",
+                "extract_type": "tableau"
+            },
+            "Renault ": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "TAG AG": {
+                "page": 115,
+                "paragraph": "key figures",
+                "value": 629,
+                "unit": "number",
+                "extract": "germany",
+                "extract_type": "tableau"
+            },
+            "Pearson": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Vinci Autoroutes": {
+                "page": 211,
+                "paragraph": "1.1.1",
+                "value": 16.8,
+                "unit": "percentage",
+                "extract": "Effectifs",
+                "extract_type": null
+            },
+            "Amer Sports": {
+                "page": 37,
+                "paragraph": "3. people",
+                "value": 5301,
+                "unit": "number",
+                "extract": "Employees by gender",
+                "extract_type": "tableau"
+            },
+            "Abertis": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Accor": {
+                "page": 154,
+                "paragraph": "3.3.1.2",
+                "value": 49,
+                "unit": "percentage",
+                "extract": "Women represent 49% of the headcount of the legal scope",
+                "extract_type": "texte"
+            },
+            "CMA CGM": {
+                "page": 79,
+                "paragraph": "3.Appendice",
+                "value": 37,
+                "unit": "percentage",
+                "extract": "Acting for people",
+                "extract_type": "Tableau"
+            },
+            "Eurazeo": {
+                "page": 51,
+                "paragraph": "3.3",
+                "value": 45,
+                "unit": "percentage",
+                "extract": "Tableau des indicateurs cl\u00e9s de performance",
+                "extract_type": "Tableau"
+            },
+            "JCDecaux": {
+                "page": 82,
+                "paragraph": 2,
+                "value": 66.6,
+                "unit": "percentage",
+                "extract": "Breakdown of employees by gender",
+                "extract_type": "Graphe"
+            },
+            "Zalando": {
+                "page": 59,
+                "paragraph": "Appendix",
+                "value": 47,
+                "unit": "percentage",
+                "extract": "Key figures",
+                "extract_type": "Tableau"
+            },
+            "Unilever": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Siemens": {
+                "page": 115,
+                "paragraph": 6,
+                "value": 88000,
+                "unit": "number",
+                "extract": "SOCIAL Working for Siemens1",
+                "extract_type": "Tableau"
+            },
+            "Merck": {
+                "page": 200,
+                "paragraph": "Indicators",
+                "value": 27461,
+                "unit": "number",
+                "extract": "Average number of employees by functional area1",
+                "extract_type": "Tableau"
+            },
+            "L'Oreal": {
+                "page": 239,
+                "paragraph": "4.3.2",
+                "value": 61709,
+                "unit": "number",
+                "extract": "R\u00c9PARTITION DES EFFECTIFS STATUTAIRES PAR TYPE DE CONTRAT PAR ZONE G\u00c9OGRAPHIQUE",
+                "extract_type": "Graphe"
+            },
+            "Infineon": {
+                "page": 25,
+                "paragraph": "Number of employees",
+                "value": 20675,
+                "unit": "number",
+                "extract": "Employees by contract type",
+                "extract_type": "Tableau"
+            }
+        },
+        "Headcount of permanent employees": {
+            "Cr\u00e9dit Agricole": {
+                "page": 167,
+                "paragraph": "5.6",
+                "value": 71839,
+                "unit": "nombre",
+                "extract": "EFFECTIF PAR TYPE DE CONTRAT",
+                "extract_type": "tableau"
+            },
+            "BNP": {
+                "page": 662,
+                "paragraph": "7.3",
+                "value": 181799,
+                "unit": "nombre",
+                "extract": "\u00c9VOLUTION DES EFFECTIFS GROUPE",
+                "extract_type": "tableau"
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Schneider Electric": {
+                "page": 315,
+                "paragraph": "2.8.2.2",
+                "value": 89.8,
+                "unit": "%",
+                "extract": "Effectif ponctuel fin d\u2019ann\u00e9e",
+                "extract_type": "tableau"
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": 56,
+                "paragraph": "2.1.7.1",
+                "value": 92,
+                "unit": "%",
+                "extract": "Promouvoir l\u2019emploi chez Carrefour et la transformation manag\u00e9riale",
+                "extract_type": "tableau"
+            },
+            "Dassault syst\u00e8me": {
+                "page": 95,
+                "paragraph": "4.5",
+                "value": 96,
+                "unit": "%",
+                "extract": NaN,
+                "extract_type": "texte"
+            },
+            "Engie": {
+                "page": 90,
+                "paragraph": "3.4.2.1.2",
+                "value": "89  240",
+                "unit": "nombre",
+                "extract": "\u00c0 fin d\u00e9cembre 2023, 89\u00a0 240 personnes disposent d\u2019un contrat \u00e0 dur\u00e9e ind\u00e9termin\u00e9e (CDI) soit 91,7% de l\u2019effectif",
+                "extract_type": "texte"
+            },
+            "Sanofi": {
+                "page": 145,
+                "paragraph": "3.3.1.2.1",
+                "value": 87.2,
+                "unit": "%",
+                "extract": "R\u00e9partition des effectifs inscrits par r\u00e9gion, genre, nature de contrat et temps de travail",
+                "extract_type": "tableau"
+            },
+            "Danone": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Renault ": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "TAG AG": {
+                "page": 115,
+                "paragraph": "key figures",
+                "value": 1170,
+                "unit": "nombre",
+                "extract": "germany",
+                "extract_type": "tableau"
+            },
+            "Pearson": {
+                "page": 55,
+                "paragraph": "Social",
+                "value": 97,
+                "unit": "%",
+                "extract": "Gender diversity breakdown",
+                "extract_type": "tableau"
+            },
+            "Vinci Autoroutes": {
+                "page": 212,
+                "paragraph": "1.1.2",
+                "value": 235434,
+                "unit": "nombre",
+                "extract": "R\u00e9partition de l\u2019effectif par nature de contrat et par m\u00e9tier au 31 d\u00e9cembre 2023(*)",
+                "extract_type": "tableau"
+            },
+            "Amer Sports": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Abertis": {
+                "page": 150,
+                "paragraph": "appendix axis 3",
+                "value": 11976,
+                "unit": "nombre",
+                "extract": "NUMBER OF PERMANENT AND FIXED-TERM CONTRACTS BY AGE GROUP AND ACTIVITY",
+                "extract_type": "tableau"
+            },
+            "Accor": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "CMA CGM": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Eurazeo": {
+                "page": 51,
+                "paragraph": "3.3",
+                "value": 425,
+                "unit": "Nombre",
+                "extract": "Tableau des indicateurs cl\u00e9s de performance",
+                "extract_type": "Tableau"
+            },
+            "JCDecaux": {
+                "page": 82,
+                "paragraph": 2,
+                "value": 95.6,
+                "unit": "%",
+                "extract": "Breakdown of employees by type of contract",
+                "extract_type": "Graphe"
+            },
+            "Zalando": {
+                "page": 60,
+                "paragraph": "Appendix",
+                "value": 13496,
+                "unit": "Nombre",
+                "extract": "Key figures",
+                "extract_type": "Tableau"
+            },
+            "Unilever": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Siemens": {
+                "page": 116,
+                "paragraph": 6,
+                "value": 300100,
+                "unit": "Nombre",
+                "extract": "SOCIAL Working for Siemens1",
+                "extract_type": "Tableau"
+            },
+            "Merck": {
+                "page": 202,
+                "paragraph": "Indicators",
+                "value": 58072,
+                "unit": "Nombre",
+                "extract": "Employees by contract type",
+                "extract_type": "Tableau"
+            },
+            "L'Oreal": {
+                "page": 239,
+                "paragraph": "4.3.2",
+                "value": 74950,
+                "unit": "Nombre",
+                "extract": "R\u00c9PARTITION DES EFFECTIFS STATUTAIRES PAR TYPE DE CONTRAT PAR ZONE G\u00c9OGRAPHIQUE",
+                "extract_type": "Graphe"
+            },
+            "Infineon": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            }
+        },
+        "Headcount of permanent employees (breakdown by gender)": {
+            "Cr\u00e9dit Agricole": {
+                "page": 87,
+                "paragraph": "3.5.2.3",
+                "value": 52.5,
+                "unit": "%",
+                "extract": "R\u00c9PARTITION PAR GENRE DES EFFECTIFS",
+                "extract_type": "Graphe"
+            },
+            "BNP": {
+                "page": 662,
+                "paragraph": "7.3",
+                "value": 92653,
+                "unit": "number",
+                "extract": "\u00c9VOLUTION DES EFFECTIFS GROUPE",
+                "extract_type": "tableau"
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Schneider Electric": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Michelin": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Carrefour": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Dassault syst\u00e8me": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Engie": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Sanofi": {
+                "page": 145,
+                "paragraph": "3.3.1.2.1",
+                "value": 49.1,
+                "unit": "%",
+                "extract": "R\u00e9partition des effectifs inscrits par r\u00e9gion, genre, nature de contrat et temps de travail",
+                "extract_type": "tableau"
+            },
+            "Danone": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Renault": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "TAG AG": {
+                "page": 115,
+                "paragraph": "key figures",
+                "value": 561,
+                "unit": "number",
+                "extract": "germany",
+                "extract_type": "tableau"
+            },
+            "Pearson": {
+                "page": 55,
+                "paragraph": "social",
+                "value": 59,
+                "unit": "%",
+                "extract": "Gender diversity breakdown",
+                "extract_type": "tableau"
+            },
+            "Vinci Autoroutes": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Amer Sports": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Abertis": {
+                "page": 150,
+                "paragraph": "appendix axis 3",
+                "value": 4916,
+                "unit": "number",
+                "extract": "NUMBER OF PERMANENT AND FIXED-TERM CONTRACTS BY COUNTRY, ACTIVITY AND GENDER",
+                "extract_type": "tableau"
+            },
+            "Accor": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "CMA CGM": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Eurazeo": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "JCDecaux": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Zalando": {
+                "page": 60,
+                "paragraph": "Appendix",
+                "value": 78.9,
+                "unit": "%",
+                "extract": "Key figures",
+                "extract_type": "Tableau"
+            },
+            "Unilever": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Siemens": {
+                "page": 116,
+                "paragraph": 6,
+                "value": 81500,
+                "unit": "number",
+                "extract": "SOCIAL Working for Siemens1",
+                "extract_type": "Tableau"
+            },
+            "Merck": {
+                "page": 202,
+                "paragraph": "Indicators",
+                "value": 25388,
+                "unit": "number",
+                "extract": "Employees by contract type",
+                "extract_type": "Tableau"
+            },
+            "L'Oreal": {
+                "page": null,
+                "paragraph": null,
+                "value": null,
+                "unit": null,
+                "extract": null,
+                "extract_type": null
+            },
+            "Infineon": {
+                "page": 25,
+                "paragraph": "Number of employees",
+                "value": 18801,
+                "unit": "number",
+                "extract": "Employees by contract type",
+                "extract_type": "Tableau"
+            }
+        },
+        "Headcount of temporary employees": {
+            "Cr\u00e9dit Agricole": {
+                "page": 167,
+                "paragraph": "5.6",
+                "value": 3286,
+                "unit": "personnes",
+                "extract": "EFFECTIF PAR TYPE DE CONTRAT",
+                "extract_type": "tableau"
+            },
+            "BNP": {
+                "page": 662,
+                "paragraph": "7.3",
+                "value": 4363,
+                "unit": "personnes",
+                "extract": "\u00c9VOLUTION DES EFFECTIFS GROUPE",
+                "extract_type": "tableau"
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Schneider Electric": {
+                "page": 315,
+                "paragraph": "2.8.2.2",
+                "value": 10.2,
+                "unit": "%",
+                "extract": "Effectif ponctuel fin d\u2019ann\u00e9e",
+                "extract_type": "tableau"
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": 56,
+                "paragraph": "2.1.7.1",
+                "value": 8,
+                "unit": "%",
+                "extract": "Promouvoir l\u2019emploi chez Carrefour et la transformation manag\u00e9riale",
+                "extract_type": "tableau"
+            },
+            "Dassault syst\u00e8me": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Engie": {
+                "page": 90,
+                "paragraph": "3.4.2.1.2",
+                "value": 4382,
+                "unit": "nombre",
+                "extract": "4\u00a0382 personnes sont sous contrat \u00e0 dur\u00e9e d\u00e9termin\u00e9e (CDD) soit 4,5% de l\u2019effectif.",
+                "extract_type": "texte"
+            },
+            "Sanofi": {
+                "page": 145,
+                "paragraph": "3.3.1.2.1",
+                "value": 12.8,
+                "unit": "%",
+                "extract": "R\u00e9partition des effectifs inscrits par r\u00e9gion, genre, nature de contrat et temps de travail",
+                "extract_type": "tableau"
+            },
+            "Danone": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Renault ": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "TAG AG": {
+                "page": 115,
+                "paragraph": "key figures",
+                "value": 129,
+                "unit": "nombre",
+                "extract": "germany",
+                "extract_type": "tableau"
+            },
+            "Pearson": {
+                "page": 55,
+                "paragraph": "social",
+                "value": 3,
+                "unit": "%",
+                "extract": "Gender diversity breakdown",
+                "extract_type": "tableau"
+            },
+            "Vinci Autoroutes": {
+                "page": 212,
+                "paragraph": "1.1.2",
+                "value": 250815,
+                "unit": "nombre",
+                "extract": "\u00c0 fin 2023, 254 185 personnes sont en contrat durable (contrat permanent ou contrat \u00e0 dur\u00e9e de chantier) et 25 081 personnes disposent d\u2019un contrat non permanent (contrat d\u2019alternant ou contrat \u00e0 dur\u00e9e d\u00e9termin\u00e9e en France)",
+                "extract_type": "texte"
+            },
+            "Amer Sports": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Abertis": {
+                "page": 150,
+                "paragraph": "appendix axis 3",
+                "value": 183,
+                "unit": "nombre",
+                "extract": "NUMBER OF PERMANENT AND FIXED-TERM CONTRACTS BY AGE GROUP AND ACTIVITY",
+                "extract_type": "tableau"
+            },
+            "Accor": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "CMA CGM": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Eurazeo": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "JCDecaux": {
+                "page": 82,
+                "paragraph": 2,
+                "value": 4.4,
+                "unit": "%",
+                "extract": "Breakdown of employees by type of contract",
+                "extract_type": "Graphe"
+            },
+            "Zalando": {
+                "page": 60,
+                "paragraph": "Appendix",
+                "value": 1480,
+                "unit": "Nombre",
+                "extract": "Key figures",
+                "extract_type": "Tableau"
+            },
+            "Unilever": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Siemens": {
+                "page": 116,
+                "paragraph": 6,
+                "value": 18500,
+                "unit": "Nombre",
+                "extract": "SOCIAL Working for Siemens1",
+                "extract_type": "Tableau"
+            },
+            "Merck": {
+                "page": 202,
+                "paragraph": "Indicators",
+                "value": 3936,
+                "unit": "Nombre",
+                "extract": "Employees by contract type",
+                "extract_type": "Tableau"
+            },
+            "L'Oreal": {
+                "page": 239,
+                "paragraph": "4.3.2",
+                "value": 15343,
+                "unit": "Nombre",
+                "extract": "R\u00c9PARTITION DES EFFECTIFS STATUTAIRES PAR TYPE DE CONTRAT PAR ZONE G\u00c9OGRAPHIQUE",
+                "extract_type": "Graphe"
+            },
+            "Infineon": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            }
+        },
+        "Headcount of temporary employees (breakdown by gender)": {
+            "Cr\u00e9dit Agricole": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "BNP": {
+                "page": 662,
+                "paragraph": "7.3",
+                "value": "1 727 HOMMES et 2636 FEMMES",
+                "unit": "nombre",
+                "extract": "\u00c9VOLUTION DES EFFECTIFS GROUPE",
+                "extract_type": "tableau"
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Schneider Electric": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Dassault syst\u00e8me": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Engie": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Sanofi": {
+                "page": 147,
+                "paragraph": "3.3.1.2.1",
+                "value": 51.7,
+                "unit": "%",
+                "extract": "Nombre de d\u00e9parts",
+                "extract_type": "tableau"
+            },
+            "Danone": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Renault ": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "TAG AG": {
+                "page": 115,
+                "paragraph": "key figures",
+                "value": "68 femmes 61 hommes",
+                "unit": "nombre",
+                "extract": "germany",
+                "extract_type": "tableau"
+            },
+            "Pearson": {
+                "page": 55,
+                "paragraph": "social",
+                "value": "36 men 63 female",
+                "unit": "%",
+                "extract": "Gender diversity breakdown",
+                "extract_type": "tableau"
+            },
+            "Vinci Autoroutes": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Amer Sports": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Abertis": {
+                "page": 150,
+                "paragraph": "appendix axis 3",
+                "value": "71 femmes 112 hommes",
+                "unit": "nombre",
+                "extract": "NUMBER OF PERMANENT AND FIXED-TERM CONTRACTS BY COUNTRY, ACTIVITY AND GENDER",
+                "extract_type": "tableau"
+            },
+            "Accor": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "CMA CGM": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Eurazeo": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "JCDecaux": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Zalando": {
+                "page": 56,
+                "paragraph": "Appendix",
+                "value": 9.9,
+                "unit": "% de femmes",
+                "extract": NaN,
+                "extract_type": "Tableau"
+            },
+            "Unilever": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Siemens": {
+                "page": 116,
+                "paragraph": 6,
+                "value": 6100,
+                "unit": "Nombre de femmes",
+                "extract": "SOCIAL Working for Siemens1",
+                "extract_type": "Tableau"
+            },
+            "Merck": {
+                "page": 202,
+                "paragraph": "Indicators",
+                "value": 2021,
+                "unit": "Nombre de femmes",
+                "extract": "Employees by contract type",
+                "extract_type": "Tableau"
+            },
+            "L'Oreal": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Infineon": {
+                "page": 25,
+                "paragraph": "Number of employees",
+                "value": 1874,
+                "unit": "Nombre de femmes",
+                "extract": "Employees by contract type",
+                "extract_type": "Tableau"
+            }
+        },
+        "Rate of employee turnover": {
+            "Cr\u00e9dit Agricole": {
+                "page": 167,
+                "paragraph": "5.6",
+                "value": 8.8,
+                "unit": "%",
+                "extract": "Le taux de turn-over est de 8,8 % en 2023 avec un taux de d\u00e9mission de 4,2 %. En 2022 le taux de turn-over \u00e9tait de 9,9 % avec un taux de d\u00e9mission de 5,2 %.",
+                "extract_type": "texte"
+            },
+            "BNP": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Schneider Electric": {
+                "page": 315,
+                "paragraph": "2.8.2.2",
+                "value": 14.6,
+                "unit": "%",
+                "extract": "Composition de l\u2019effectif(1)",
+                "extract_type": "tableau "
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": 57,
+                "paragraph": "2.1.7.1",
+                "value": 29.7,
+                "unit": "%",
+                "extract": "Attirer, retenir et d\u00e9velopper les talents",
+                "extract_type": "tableau "
+            },
+            "Dassault syst\u00e8me": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Engie": {
+                "page": 101,
+                "paragraph": "3.4.4.4",
+                "value": 8.2,
+                "unit": "%",
+                "extract": "Strat\u00e9gie Talents : un v\u00e9ritable enjeu pour  d\u00e9velopper et retenir les Talents du Groupe",
+                "extract_type": "tableau "
+            },
+            "Sanofi": {
+                "page": 147,
+                "paragraph": "3.3",
+                "value": 14945,
+                "unit": "nombre",
+                "extract": "Nombre de d\u00e9parts",
+                "extract_type": "tableau "
+            },
+            "Danone": {
+                "page": 208,
+                "paragraph": 5.4,
+                "value": 19,
+                "unit": "%",
+                "extract": "Conditions et organisation du temps de travail de Danone",
+                "extract_type": "tableau"
+            },
+            "Renault ": {
+                "page": 163,
+                "paragraph": "2.3.2.2.1 c)",
+                "value": 1154,
+                "unit": "nombre",
+                "extract": "Dans le m\u00eame temps, le nombre de licenciements s\u2019\u00e9tablit \u00e0 1 154 personnes, soit une diminution de 25 % par rapport \u00e0 2022 (1534 personnes).",
+                "extract_type": "texte"
+            },
+            "TAG AG": {
+                "page": 116,
+                "paragraph": "key figures",
+                "value": 229,
+                "unit": "nombre",
+                "extract": "germany",
+                "extract_type": "tableau"
+            },
+            "Pearson": {
+                "page": 56,
+                "paragraph": "social",
+                "value": 6446,
+                "unit": "nombre",
+                "extract": "Turnover",
+                "extract_type": "tableau "
+            },
+            "Vinci Autoroutes": {
+                "page": 212,
+                "paragraph": "1.1.3",
+                "value": 37,
+                "unit": "%",
+                "extract": "Le taux de rotation du personnel est autour de 37 % en 2023",
+                "extract_type": "texte"
+            },
+            "Amer Sports": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Abertis": {
+                "page": 155,
+                "paragraph": "appendix axis 3",
+                "value": 17,
+                "unit": "%",
+                "extract": "TREND IN OVERALL EMPLOYEE TURNOVER BY GENDER",
+                "extract_type": "graphe"
+            },
+            "Accor": {
+                "page": 155,
+                "paragraph": "3.3.1.2",
+                "value": 38,
+                "unit": "%",
+                "extract": NaN,
+                "extract_type": "image"
+            },
+            "CMA CGM": {
+                "page": 79,
+                "paragraph": "3.Appendice",
+                "value": 29,
+                "unit": "%",
+                "extract": "Acting for people",
+                "extract_type": "Tableau"
+            },
+            "Eurazeo": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "JCDecaux": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Zalando": {
+                "page": 60,
+                "paragraph": "Appendix",
+                "value": 15.1,
+                "unit": "%",
+                "extract": "Key figures",
+                "extract_type": "Tableau"
+            },
+            "Unilever": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Siemens": {
+                "page": 120,
+                "paragraph": 6,
+                "value": 9.6,
+                "unit": "%",
+                "extract": "Exits",
+                "extract_type": "Tableau"
+            },
+            "Merck": {
+                "page": 204,
+                "paragraph": "Indicators",
+                "value": 9.96,
+                "unit": "%",
+                "extract": "Staff turnover1,",
+                "extract_type": "tableau "
+            },
+            "L'Oreal": {
+                "page": 240,
+                "paragraph": "3.4.2",
+                "value": 10.7,
+                "unit": "%",
+                "extract": "Le taux de rotation prend en compte les d\u00e9missions, les d\u00e9parts \u00e0 la retraite, les accords de rupture, les licenciements, et, \u00e0 compter de 2023, les d\u00e9c\u00e8s et les ruptures anticip\u00e9es de contrats statutaires temporaires. En 2023, il a \u00e9t\u00e9 de 10,7 %.",
+                "extract_type": "Texte"
+            },
+            "Infineon": {
+                "page": 25,
+                "paragraph": "New hiring and fluctuation rate",
+                "value": 6.8,
+                "unit": "%",
+                "extract": "The worldwide employee fluctuation rate during the 2023 fiscal year was 6.8 percent (previous year: 9.0 percent)",
+                "extract_type": "Texte"
+            }
+        },
+        "Rate of employee turnover (breakdown by gender)": {
+            "Cr\u00e9dit Agricole": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "BNP": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Schneider Electric": {
+                "page": 315,
+                "paragraph": "2.8.2.2 401-1",
+                "value": "14 hommes, 16 femmes",
+                "unit": "%",
+                "extract": "Composition de l\u2019effectif(1)",
+                "extract_type": "tableau"
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Dassault syst\u00e8me": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Engie": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Sanofi": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Danone": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Renault ": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "TAG AG": {
+                "page": 116,
+                "paragraph": "key figures",
+                "value": "98 femmes 131 hommes",
+                "unit": "nombre",
+                "extract": "germany",
+                "extract_type": "tableau"
+            },
+            "Pearson": {
+                "page": 56,
+                "paragraph": "social",
+                "value": "2475 men 2475 female",
+                "unit": "nombre",
+                "extract": "Turnover",
+                "extract_type": "tableau"
+            },
+            "Vinci Autoroutes": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Amer Sports": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Abertis": {
+                "page": 156,
+                "paragraph": "Appendix axis 3",
+                "value": "18,6 femmes 15,8 hommes",
+                "unit": "%",
+                "extract": "EMPLOYEE TURNOVER BY GENDER, ACTIVITY AND COUNTRY",
+                "extract_type": "tableau"
+            },
+            "Accor": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "CMA CGM": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Eurazeo": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "JCDecaux": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Zalando": {
+                "page": 56,
+                "paragraph": "Appendix",
+                "value": 53,
+                "unit": "% de femmes",
+                "extract": NaN,
+                "extract_type": "Tableau"
+            },
+            "Unilever": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Siemens": {
+                "page": 120,
+                "paragraph": 6,
+                "value": 9.9,
+                "unit": "% de femmes",
+                "extract": "Exits",
+                "extract_type": "Tableau"
+            },
+            "Merck": {
+                "page": 204,
+                "paragraph": "Indicators",
+                "value": 9.76,
+                "unit": "% de femmes",
+                "extract": "Staff turnover1,",
+                "extract_type": "tableau "
+            },
+            "L'Oreal": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Infineon": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            }
+        },
+        "Total time of training ": {
+            "Cr\u00e9dit Agricole": {
+                "page": 127,
+                "paragraph": "5.2",
+                "value": 2.5,
+                "unit": "millions d'heures",
+                "extract": "5.2. INDICATEURS DE PERFORMANCE EXTRA\u2013FINANCI\u00c8RE",
+                "extract_type": "tableau"
+            },
+            "BNP": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": 25,
+                "paragraph": "6.4.2",
+                "value": 108032,
+                "unit": "heures",
+                "extract": "Chiffres cl\u00e9s de la formation (p\u00e9rim\u00e8tre France)",
+                "extract_type": "tableau"
+            },
+            "Schneider Electric": {
+                "page": 321,
+                "paragraph": "2.8.2.5",
+                "value": 3126358,
+                "unit": "heures",
+                "extract": "D\u00e9veloppement des talents et formation",
+                "extract_type": "tableau"
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": 57,
+                "paragraph": "2.1.7.1",
+                "value": 3.5,
+                "unit": "% millions d'heures",
+                "extract": "Attirer, retenir et d\u00e9velopper les talents",
+                "extract_type": "tableau"
+            },
+            "Dassault syst\u00e8me": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Engie": {
+                "page": 99,
+                "paragraph": "3.4.3.2.2",
+                "value": 2328349,
+                "unit": "heures",
+                "extract": "Heures de formation",
+                "extract_type": "tableau"
+            },
+            "Sanofi": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Danone": {
+                "page": 213,
+                "paragraph": "5.4",
+                "value": 2090720,
+                "unit": "heures",
+                "extract": NaN,
+                "extract_type": "tableau"
+            },
+            "Renault ": {
+                "page": 166,
+                "paragraph": "B.",
+                "value": 2519196,
+                "unit": "heures",
+                "extract": "En 2023, le nombre d\u2019heures cumul\u00e9es de formation r\u00e9alis\u00e9es par les collaborateurs du Groupe inscrits \u00e0 l\u2019effectif au 31/12/2023 (CDI et CDD) s\u2019\u00e9l\u00e8ve\u00e02 519 196heures",
+                "extract_type": "texte"
+            },
+            "TAG AG": {
+                "page": 117,
+                "paragraph": "key figures",
+                "value": 8,
+                "unit": "hours/person",
+                "extract": "Our employees shape our future",
+                "extract_type": "tableau"
+            },
+            "Pearson": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Vinci Autoroutes": {
+                "page": 218,
+                "paragraph": "1.3.2",
+                "value": 6010237,
+                "unit": "heures",
+                "extract": "y 6 010 237 heures de formation dispens\u00e9es en 2023 (5 762 283 heures en 2022).",
+                "extract_type": "texte"
+            },
+            "Amer Sports": {
+                "page": 60,
+                "paragraph": "5. Governance",
+                "value": 94,
+                "unit": "%",
+                "extract": ". The completion rate of the Code of Conduct training course for all employees at the end of 2023 was 94%.",
+                "extract_type": "texte"
+            },
+            "Abertis": {
+                "page": 158,
+                "paragraph": "appendix axis 3",
+                "value": 21.9,
+                "unit": "heures/personne",
+                "extract": "During 2023, the Business Units provided an average of 21.9 hours of training per person",
+                "extract_type": "texte"
+            },
+            "Accor": {
+                "page": 13,
+                "paragraph": NaN,
+                "value": 6.2,
+                "unit": "million hours ",
+                "extract": "FOR EMPLOYEES* AND LOCAL COMMUNITIES",
+                "extract_type": "texte"
+            },
+            "CMA CGM": {
+                "page": 79,
+                "paragraph": "3.Appendice",
+                "value": 1706241,
+                "unit": "hours",
+                "extract": "Acting for people",
+                "extract_type": "Tableau"
+            },
+            "Eurazeo": {
+                "page": 52,
+                "paragraph": "3.3",
+                "value": 3791,
+                "unit": "hours",
+                "extract": "Tableau des indicateurs cl\u00e9s de performance",
+                "extract_type": "Tableau"
+            },
+            "JCDecaux": {
+                "page": 90,
+                "paragraph": 2,
+                "value": 158442,
+                "unit": "hours",
+                "extract": "Employees\u2019 training",
+                "extract_type": "Tableau"
+            },
+            "Zalando": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Unilever": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Siemens": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Merck": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "L'Oreal": {
+                "page": 243,
+                "paragraph": "3.4.2",
+                "value": 3472899,
+                "unit": "hours",
+                "extract": "NOMBRE D\u2019HEURES DE FORMATION",
+                "extract_type": "Graphe"
+            },
+            "Infineon": {
+                "page": 24,
+                "paragraph": "Qualification and training",
+                "value": 874038,
+                "unit": "hours",
+                "extract": "In the 2023 fiscal year, our staff participated in a total of 874,038 hours of training",
+                "extract_type": "Texte"
+            }
+        }
+    },
+    "Governance related data": {
+        "Total number of alerts received": {
+            "Cr\u00e9dit Agricole": {
+                "page": 121,
+                "paragraph": "4.5",
+                "value": 455,
+                "unit": "nombre",
+                "extract": "Au 31 d\u00e9cembre 2023, 455 alertes ont \u00e9t\u00e9 remont\u00e9es et trait\u00e9es via ce dispositif depuis son d\u00e9ploiement.",
+                "extract_type": "texte"
+            },
+            "BNP": {
+                "page": 702,
+                "paragraph": "7.6",
+                "value": 648,
+                "unit": "nombre",
+                "extract": "Nombre d\u2019alertes re\u00e7ues par le Groupe via le canal d\u2019alerte (whistleblowing)",
+                "extract_type": "tableau"
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Schneider Electric": {
+                "page": 115,
+                "paragraph": "2.2",
+                "value": 1291,
+                "unit": "nombre",
+                "extract": "Nombre de signalements re\u00e7us par le syst\u00e8me d\u2019alerte interne par r\u00e9gion",
+                "extract_type": "graphique"
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": 53,
+                "paragraph": "2.1.6.2",
+                "value": 5361,
+                "unit": "nombre",
+                "extract": "En\u00a02023, 5\u00a0361 alertes ont \u00e9t\u00e9 re\u00e7ues par le Groupe dont la majorit\u00e9 concernait des probl\u00e9matiques RH (hors discrimination et harc\u00e8lement)\u00a0",
+                "extract_type": "texte"
+            },
+            "Dassault syst\u00e8me": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Engie": {
+                "page": 136,
+                "paragraph": "3.9.4",
+                "value": 274,
+                "unit": "nombre",
+                "extract": "En 2023, 274\u00a0 alertes ont \u00e9t\u00e9 re\u00e7ues via le dispositif, dont 82 concernant des cat\u00e9gories de risques relevant du devoir de vigilance.",
+                "extract_type": "texte"
+            },
+            "Sanofi": {
+                "page": 185,
+                "paragraph": "3.3.7.3.",
+                "value": 674,
+                "unit": "nombre",
+                "extract": "Sanofi a re\u00e7u un total de 674\u00a0 signalements par t\u00e9l\u00e9phone ou au moyen du formulaire en ligne pr\u00e9vu \u00e0 cet effet. D",
+                "extract_type": "texte"
+            },
+            "Danone": {
+                "page": 227,
+                "paragraph": 5.5,
+                "value": 902,
+                "unit": "nombre",
+                "extract": "R\u00e9sultats En 2023, Danone a re\u00e7u 902 alertes en lien avec diverses th\u00e9matiques, dont les probl\u00e8mes en lien avec les collaborateurs, la corruption et la fraude (par rapport \u00e0 506 en 2022)",
+                "extract_type": "texte"
+            },
+            "Renault ": {
+                "page": 185,
+                "paragraph": "2.4.1.3",
+                "value": 568,
+                "unit": "nombre",
+                "extract": "Au niveau mondial, 568 nouveaux signalements ont \u00e9t\u00e9 enregistr\u00e9s en 2023.",
+                "extract_type": "texte"
+            },
+            "TAG AG": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Pearson": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Vinci Autoroutes": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Amer Sports": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Abertis": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Accor": {
+                "page": 198,
+                "paragraph": "3.5.7",
+                "value": 111,
+                "unit": "%",
+                "extract": "In 2023, the number of alerts submitted through the Accor Integrity Line increased by more than 111% compared to 2022",
+                "extract_type": "texte"
+            },
+            "CMA CGM": {
+                "page": 80,
+                "paragraph": "3.Appendice",
+                "value": 727,
+                "unit": "Nombre",
+                "extract": "Acting for fair trade",
+                "extract_type": "Tableau"
+            },
+            "Eurazeo": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "JCDecaux": {
+                "page": 102,
+                "paragraph": "2.5.2.2",
+                "value": 13,
+                "unit": "Nombre",
+                "extract": "In 2023, the Committee examined 13 alerts for which it was\ncompetent, mainly through the electronic whistleblowing\nprocedure, involving 9 subsidiaries in Europe and Latin America\nconcerning situations of potential breach of the Vigilance rules\nfollowing areas: wage discrimination or discrimination based on\nsexual orientation, moral or sexual harassment, environmental\ncommitments. Strict investigations were carried out confidentially\nlocally and their conclusions were examined by the Committee,\nwhich approved them, as well as the related proposals and\nrecommendations. In addition, the Committee\u2019s Secretariat\nreceived 12 reports for which it noted the Committee\u2019s unsuitability\n(e.g. advertising campaign content, driving, vandalism), which were\nforwarded to the operational departments concerned for\nprocessing. All files opened in 2023 have now been closed except\nfor four, which are still monitored locally, and for which the\nCommittee is kept regularly informedcompetent, mainly through the electronic whistleblowing\nprocedure, involving 9 subsidiaries in Europe and Latin America\nconcerning situations of potential breach of the Vigilance rules\nfollowing areas: wage discrimination or discrimination based on\nsexual orientation, moral or sexual harassment, environmental\ncommitments.",
+                "extract_type": "Texte"
+            },
+            "Zalando": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Unilever": {
+                "page": 40,
+                "paragraph": "Strategic report",
+                "value": 1390,
+                "unit": "Nombre",
+                "extract": "Across all areas of our Code, we received 1,390 Code reports this year \u2013 an increase of 21% versus last year. This reflects our\u00a0efforts to encourage people to \u2018speak up\u2019 when they see Code breaches",
+                "extract_type": "Texte"
+            },
+            "Siemens": {
+                "page": 107,
+                "paragraph": 6,
+                "value": 416,
+                "unit": "Nombre",
+                "extract": "GOVERNANCE Compliance (continuing and discontinued operations)",
+                "extract_type": "Tableau"
+            },
+            "Merck": {
+                "page": 195,
+                "paragraph": "Indicators",
+                "value": 106,
+                "unit": "Nombre",
+                "extract": "Reported compliance violations",
+                "extract_type": "Tableau"
+            },
+            "L'Oreal": {
+                "page": 152,
+                "paragraph": "3.4.7.1",
+                "value": 678,
+                "unit": "Nombre",
+                "extract": "En 2023, 678 signalements concernant l\u2019\u00e9ventuel non-respect des r\u00e8gles applicables ont \u00e9t\u00e9 r\u00e9alis\u00e9s et notamment :",
+                "extract_type": "Texte"
+            },
+            "Infineon": {
+                "page": 16,
+                "paragraph": "Business Ethics",
+                "value": 161,
+                "unit": "Nombre",
+                "extract": "Reports of possible compliance breaches",
+                "extract_type": "Graphe"
+            }
+        },
+        "Amount of fines for violation of anti-corruption anti-bribery laws": {
+            "Cr\u00e9dit Agricole": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "BNP": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Schneider Electric": {
+                "page": 310,
+                "paragraph": "2.8",
+                "value": 0,
+                "unit": "unit\u00e9",
+                "extract": "D\u00e9chets",
+                "extract_type": "tableau"
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Dassault syst\u00e8me": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Engie": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Sanofi": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Danone": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Renault ": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "TAG AG": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Pearson": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Vinci Autoroutes": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Amer Sports": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Abertis": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Accor": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "CMA CGM": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Eurazeo": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "JCDecaux": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Zalando": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Unilever": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Siemens": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Merck": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "L'Oreal": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Infineon": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            }
+        },
+        "Percentage of functions-at-risk covered by training programmes": {
+            "Cr\u00e9dit Agricole": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "BNP": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Schneider Electric": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Dassault syst\u00e8me": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Engie": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Sanofi": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Danone": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Renault ": {
+                "page": 184,
+                "paragraph": "2.4.1.3",
+                "value": 90,
+                "unit": "%",
+                "extract": "L\u2019objectif 2023 de compl\u00e9tude \u00e9tait de 90 % et a \u00e9t\u00e9 atteint.",
+                "extract_type": "texte"
+            },
+            "TAG AG": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Pearson": {
+                "page": 56,
+                "paragraph": "social",
+                "value": 100,
+                "unit": "%",
+                "extract": "governance",
+                "extract_type": "tableau"
+            },
+            "Vinci Autoroutes": {
+                "page": 238,
+                "paragraph": "2.4.2",
+                "value": 79000,
+                "unit": "nombre",
+                "extract": "79 000 collaborateurs form\u00e9s \u00e0 l\u2019\u00e9thique",
+                "extract_type": "texte"
+            },
+            "Amer Sports": {
+                "page": 60,
+                "paragraph": "5. governance",
+                "value": 91,
+                "unit": "%",
+                "extract": "The data privacy training program was made available via the Amer Sports Learning Space in July 2023, and of the mandatory target group, 91% had completed the training pro_x0002_gram by the end of 2023",
+                "extract_type": "texte"
+            },
+            "Abertis": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Accor": {
+                "page": 123,
+                "paragraph": "3.4.1",
+                "value": 54,
+                "unit": "%",
+                "extract": "GOVERNANCE RISKS",
+                "extract_type": "tableau"
+            },
+            "CMA CGM": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Eurazeo": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "JCDecaux": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Zalando": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Unilever": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Siemens": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Merck": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "L'Oreal": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Infineon": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            }
+        },
+        "Total number and nature of\u00a0confirmed incidents\u00a0of corruption or bribery": {
+            "Cr\u00e9dit Agricole": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "BNP": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Schneider Electric": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Dassault syst\u00e8me": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Engie": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Sanofi": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Danone": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Renault ": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "TAG AG": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Pearson": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Vinci Autoroutes": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Amer Sports": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Abertis": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Accor": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "CMA CGM": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Eurazeo": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "JCDecaux": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Zalando": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Unilever": {
+                "page": 40,
+                "paragraph": "Strategic report",
+                "value": 507,
+                "unit": "Nombre",
+                "extract": "Following investigations by our\u00a0Business Integrity teams, we closed 969 Code reports and confirmed 507 reports as breaches, resulting in 337 people leaving the\u00a0business.",
+                "extract_type": "Texte"
+            },
+            "Siemens": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Merck": {
+                "page": 195,
+                "paragraph": "Indicators",
+                "value": 1,
+                "unit": "Nombre",
+                "extract": "Reported compliance violations",
+                "extract_type": "Tableau"
+            },
+            "L'Oreal": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Infineon": {
+                "page": 16,
+                "paragraph": "Business Ethics",
+                "value": 60,
+                "unit": "Nombre",
+                "extract": "Reports of possible compliance breaches",
+                "extract_type": "Graphe"
+            }
+        },
+        "The average time the undertaking takes to pay an invoice from the date when the contractual or statutory term of payment starts to be calculated, in number of days": {
+            "Cr\u00e9dit Agricole": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "BNP": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (assurance)": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Schneider Electric": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Michelin": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Carrefour": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Dassault syst\u00e8me": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Engie": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Sanofi": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Danone": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Renault ": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "TAG AG": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Pearson": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Vinci Autoroutes": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Amer Sports": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Abertis": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Accor": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "CMA CGM": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Eurazeo": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "JCDecaux": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Zalando": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Unilever": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Siemens": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Merck": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "L'Oreal": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            },
+            "Infineon": {
+                "page": NaN,
+                "paragraph": NaN,
+                "value": NaN,
+                "unit": NaN,
+                "extract": NaN,
+                "extract_type": NaN
+            }
+        }
+    }
+}
