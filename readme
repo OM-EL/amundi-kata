@@ -14,14 +14,9 @@ A professional, streamlined setup for running a Colpali-based Retrieval-Augmente
 - **doc/**  
   Folder where uploaded or existing PDF documents are stored for indexing.
 
-- **.env**  
-  Environment variables file (for example, for API keys).
 
 - **requirements.txt**  
   Dependencies needed for the project.
-
-- **venv/** (optional)  
-  Virtual environment directory, if you choose to create it within the project folder.
 
 
 --------------------------------------------------------------------------------
