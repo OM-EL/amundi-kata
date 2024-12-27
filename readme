@@ -153,16 +153,9 @@ Confirm all dependencies are installed using `pip install -r requirements.txt`. 
 10. ADDITIONAL NOTES
 --------------------------------------------------------------------------------
 
-- **Production Deployment**  
-Consider deploying on a server (for example, AWS or Azure) or using Docker if you need remote access or scalability.
-
 - **GPU Usage**  
 If you have a CUDA-capable GPU, verify that you installed the correct PyTorch version. Otherwise, the application runs on CPU (or Apple MPS if available).
 
 - **Stopping the App**  
 Press **CTRL + C** in the terminal or close the terminal to stop the local server.
 
-
---------------------------------------------------------------------------------
-Enjoy using your Colpali-Based Multimodal RAG Application!
---------------------------------------------------------------------------------
