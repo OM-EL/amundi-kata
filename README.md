@@ -4,6 +4,10 @@ A streamlined setup for running a **Colpali-based Retrieval-Augmented Generation
 
 ---
 
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://www.loom.com/embed/a03e80c4233341a5b37160e4c4e8ac68?sid=f50d8d37-e705-49be-a1c4-8da4e8caf77d))
+
+<div style="position: relative; padding-bottom: 64.63195691202873%; height: 0;"><iframe src="https://www.loom.com/embed/a03e80c4233341a5b37160e4c4e8ac68?sid=f50d8d37-e705-49be-a1c4-8da4e8caf77d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## **Table of Contents**
 
 1. [Introduction](#introduction)  
