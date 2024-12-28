@@ -4,8 +4,7 @@
 
 A professional, streamlined setup for running a Colpali-based Retrieval-Augmented Generation (RAG) application on your local machine. This application indexes PDF documents, stores them for quick access, and uses an LLM (for example, OpenAI) to answer queries about the indexed content.
 
-![alt text]([http://url/to/img.png](https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/La8vRJ_dtobqs6WQGKTzB.png))
-
+![Descriptive Alt Text](https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/La8vRJ_dtobqs6WQGKTzB.png)
 
 
 --------------------------------------------------------------------------------
