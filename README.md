@@ -7,7 +7,10 @@ A professional, streamlined setup for running a Colpali-based Retrieval-Augmente
 ![Descriptive Alt Text](https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/La8vRJ_dtobqs6WQGKTzB.png)
 
 
-## 2. RAG Architecture: Classic vs. ColPali-Based Systems
+--------------------------------------------------------------------------------
+0. RAG Architecture: Classic vs. ColPali-Based Systems
+--------------------------------------------------------------------------------
+
 
 <img width="1243" alt="Screenshot 2024-12-28 at 15 13 15" src="https://github.com/user-attachments/assets/a6bc5d28-7cb0-4d79-af61-279f7dc42e9b" />
 
