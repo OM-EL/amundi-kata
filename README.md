@@ -1,171 +1,200 @@
---------------------------------------------------------------------------------
-                  Colpali-Based Multimodal RAG Application
---------------------------------------------------------------------------------
+# **Colpali-Based Multimodal RAG Application**
 
-A professional, streamlined setup for running a Colpali-based Retrieval-Augmented Generation (RAG) application on your local machine. This application indexes PDF documents, stores them for quick access, and uses an LLM (for example, OpenAI) to answer queries about the indexed content.
+A streamlined setup for running a **Colpali-based Retrieval-Augmented Generation (RAG)** application locally. This tool indexes PDF documents, stores them for efficient retrieval, and leverages an LLM (e.g., OpenAI) to answer queries about the indexed content.
 
+---
 
---------------------------------------------------------------------------------
-0. RAG Architecture: Classic vs. ColPali-Based Systems 
---------------------------------------------------------------------------------
+## **Table of Contents**
 
-![Descriptive Alt Text](https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/La8vRJ_dtobqs6WQGKTzB.png)
+1. [Introduction](#introduction)  
+2. [RAG Architecture](#rag-architecture)  
+3. [Repository Overview](#repository-overview)  
+4. [Prerequisites](#prerequisites)  
+5. [Environment Configuration](#environment-configuration)  
+6. [Virtual Environment Setup](#virtual-environment-setup)  
+7. [Installation](#installation)  
+8. [Project Structure & Document Handling](#project-structure--document-handling)  
+9. [Running the Application](#running-the-application)  
+10. [Usage Instructions](#usage-instructions)  
+11. [Troubleshooting](#troubleshooting)  
+12. [Additional Notes](#additional-notes)
+
+---
+
+## **Introduction**
+
+The **Colpali-Based Multimodal RAG Application** allows you to:
+
+- Index and retrieve information from PDF documents.
+- Query indexed content via an LLM like OpenAI.
+- Visualize results with a user-friendly Streamlit interface.
+
+---
+
+## **RAG Architecture**
+
+Explore the difference between classic and **Colpali-based systems**:  
+
+![Architecture Overview](https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/La8vRJ_dtobqs6WQGKTzB.png)
 
 <img width="1243" alt="Screenshot 2024-12-28 at 15 13 15" src="https://github.com/user-attachments/assets/a6bc5d28-7cb0-4d79-af61-279f7dc42e9b" />
-Source : https://medium.com/@simeon.emanuilov/colpali-revolutionizing-multimodal-document-retrieval-324eab1cf480
 
---------------------------------------------------------------------------------
-1. REPOSITORY OVERVIEW
---------------------------------------------------------------------------------
+*Source: [Medium Article](https://medium.com/@simeon.emanuilov/colpali-revolutionizing-multimodal-document-retrieval-324eab1cf480)*
 
-- **app.py**  
-  Main Streamlit application script.
+---
 
-- **doc/**  
-  Folder where uploaded or existing PDF documents are stored for indexing.
+## **Repository Overview**
 
+- `app.py`  
+  The main Streamlit application script.
 
-- **requirements.txt**  
-  Dependencies needed for the project.
+- `doc/`  
+  Directory for storing uploaded PDF documents.
 
+- `requirements.txt`  
+  List of required dependencies for the project.
 
---------------------------------------------------------------------------------
-2. PREREQUISITES
---------------------------------------------------------------------------------
+---
 
-- Python **3.8+**  
-- **pip** (Included by default with most Python installations)  
-- **OpenAI API Key** (Required for LLM functionality)
+## **Prerequisites**
 
+- **Python** 3.8+  
+- **pip** (bundled with most Python installations)  
+- **OpenAI API Key** (for LLM functionalities)
 
---------------------------------------------------------------------------------
-3. ENVIRONMENT CONFIGURATION
---------------------------------------------------------------------------------
+---
 
-Create a **.env** file in the project’s root directory with at least:
+## **Environment Configuration**
 
-OPENAI_API_KEY=your-openai-api-key
+1. Create a `.env` file in the project root:
+   ```plaintext
+   OPENAI_API_KEY=your-openai-api-key
+   ```
 
-> **Note**  
-> - Keep your `.env` file out of version control if your repository is public.  
-> - Add any additional environment variables as needed.
+2. Keep `.env` out of version control if the repository is public.
 
+---
 
---------------------------------------------------------------------------------
-4. VIRTUAL ENVIRONMENT SETUP
---------------------------------------------------------------------------------
+## **Virtual Environment Setup**
 
-It is highly recommended to use a virtual environment to avoid conflicts with other Python projects:
+1. Create a virtual environment:  
+   ```bash
+   python -m venv venv
+   ```
 
-1. **Create** a virtual environment (named `venv` here):
+2. Activate the virtual environment:  
+   - macOS/Linux:  
+     ```bash
+     source venv/bin/activate
+     ```
+   - Windows (PowerShell):  
+     ```bash
+     .\venv\Scripts\activate
+     ```
 
-python -m venv venv
+---
 
-2. **Activate** the virtual environment:
-- **macOS/Linux**  
-  ```
-  source venv/bin/activate
-  ```
-- **Windows (PowerShell)**  
-  ```
-  .\venv\Scripts\activate
-  ```
+## **Installation**
 
+1. Activate your virtual environment.  
+2. Update pip (optional but recommended):  
+   ```bash
+   pip install --upgrade pip
+   ```
+3. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   ```
 
---------------------------------------------------------------------------------
-5. INSTALLATION
---------------------------------------------------------------------------------
-
-With your **virtual environment activated**:
-
-1. **Update pip** (optional but recommended):
-
-pip install –upgrade pip
-
-2. **Install required packages**:
-
-pip install -r requirements.txt
-
-Your **requirements.txt** might include:
-
+Sample `requirements.txt`:
+```
 streamlit
-byaldi          # or colpali, depending on your library version
+colpali
 openai
 python-dotenv
 torch
 pillow
 requests
-…
+```
 
---------------------------------------------------------------------------------
-6. PROJECT STRUCTURE & DOCUMENT HANDLING
---------------------------------------------------------------------------------
+---
+
+## **Project Structure & Document Handling**
 
 1. **PDF Storage**  
-   - Ensure there is a `doc/` folder in the project root.  
-   - When you upload a PDF in the Streamlit app, it will be saved automatically into `doc/`.
+   - Ensure a `doc/` folder exists in the project root.  
+   - Uploaded PDFs are automatically saved here.
 
 2. **Indexing**  
-   - The application automatically indexes newly uploaded PDFs.  
-   - If you have PDFs in `doc/` before running the app, adapt indexing logic in `app.py` if you want them indexed as well.
+   - PDFs are indexed automatically upon upload.  
+   - Pre-existing PDFs in `doc/` may require adjustments in `app.py`.
 
 3. **Selecting a Document**  
-   - In the Streamlit UI, you will see a dropdown listing all indexed PDFs.  
-   - Choose the document you want to query, then ask your question.
+   - Use the dropdown in the Streamlit app to select indexed PDFs.  
+   - Ask queries about the selected document.
 
+---
 
---------------------------------------------------------------------------------
-7. RUNNING THE APPLICATION
---------------------------------------------------------------------------------
+## **Running the Application**
 
-1. **Activate** your virtual environment (if not already active).  
-2. **Launch Streamlit**:
+1. Activate the virtual environment.  
+2. Run the application:  
+   ```bash
+   streamlit run app.py
+   ```
+3. Open the URL displayed in the console (e.g., `http://localhost:8501`).
 
-streamlit run app.py
+---
 
+## **Usage Instructions**
 
-3. **Open the URL** (for example, `http://localhost:8501`) displayed in the console.
+1. **Upload a PDF**  
+   - Use the **“Upload a PDF Document”** button in the sidebar.  
+   - The document is saved in `doc/` and indexed.
 
+2. **Query the Document**  
+   - Select a document from the dropdown.  
+   - Enter a query, then click **“Search and Extract Text.”**  
+   - Results include a retrieved page image and LLM-generated text.
 
---------------------------------------------------------------------------------
-8. USAGE INSTRUCTIONS
---------------------------------------------------------------------------------
+3. **LLM Responses**  
+   - LLM responses are based on the OpenAI API key in your `.env`.
 
-1. **Upload a PDF File**  
-- Use the **“Upload a PDF Document”** button in the sidebar.  
-- The file is saved in `doc/` and indexed automatically.
+---
 
-2. **Select & Query**  
-- In **Step 2** of the app, select an indexed PDF from the dropdown.  
-- Enter your query text, then click **“Search and Extract Text.”**  
-- The RAG search retrieves a relevant page as an image, which is passed to the LLM for processing.
+## **Troubleshooting**
 
-3. **LLM Response**  
-- The OpenAI API key in `.env` is used for authenticating with the model.  
-- The returned text is displayed under **“LLM Response.”**
-
-
---------------------------------------------------------------------------------
-9. TROUBLESHOOTING
---------------------------------------------------------------------------------
+### **Common Issues**
 
 - **Missing or Invalid OpenAI Key**  
-Verify `OPENAI_API_KEY` is set in your `.env`. Ensure your key is valid and that you have adequate usage limits.
+  Ensure `OPENAI_API_KEY` is correctly set in `.env`.
 
-- **Indexing Issues**  
-Confirm the `doc/` folder exists and that the PDF is not locked or corrupted. Re-indexing the same PDF might cause conflicts if your library version does not handle duplicates gracefully.
+- **Indexing Problems**  
+  Verify `doc/` exists and that PDFs are not locked or corrupted.
 
 - **Dependency Conflicts**  
-Confirm all dependencies are installed using `pip install -r requirements.txt`. Make sure your Python version matches what your libraries require.
+  Reinstall dependencies with:  
+  ```bash
+  pip install -r requirements.txt
+  ```
 
+### **Advanced Debugging**
 
---------------------------------------------------------------------------------
-10. ADDITIONAL NOTES
---------------------------------------------------------------------------------
+- Check Python and library versions.  
+- Re-index PDFs manually if necessary.
 
-- **GPU Usage**  
-If you have a CUDA-capable GPU, verify that you installed the correct PyTorch version. Otherwise, the application runs on CPU (or Apple MPS if available).
+---
+
+## **Additional Notes**
+
+- **GPU Support**  
+  Use a CUDA-enabled GPU or Apple MPS for faster processing (if supported).  
+  Ensure you install the appropriate PyTorch version.
 
 - **Stopping the App**  
-Press **CTRL + C** in the terminal or close the terminal to stop the local server.
+  Press **CTRL + C** or close the terminal to stop the server.
+
+---
+
+This improved structure ensures clarity and professionalism, making the README easy to read and follow for both technical and non-technical users.
 
