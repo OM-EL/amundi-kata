@@ -8,12 +8,12 @@ A professional, streamlined setup for running a Colpali-based Retrieval-Augmente
 
 
 --------------------------------------------------------------------------------
-0. RAG Architecture: Classic vs. ColPali-Based Systems
+0. RAG Architecture: Classic vs. ColPali-Based Systems 
 --------------------------------------------------------------------------------
 
 
 <img width="1243" alt="Screenshot 2024-12-28 at 15 13 15" src="https://github.com/user-attachments/assets/a6bc5d28-7cb0-4d79-af61-279f7dc42e9b" />
-
+Source : https://medium.com/@simeon.emanuilov/colpali-revolutionizing-multimodal-document-retrieval-324eab1cf480
 
 --------------------------------------------------------------------------------
 1. REPOSITORY OVERVIEW
