@@ -8,16 +8,18 @@ A streamlined setup for running a **Colpali-based Retrieval-Augmented Generation
 
 1. [Introduction](#introduction)  
 2. [RAG Architecture](#rag-architecture)  
-3. [Repository Overview](#repository-overview)  
-4. [Prerequisites](#prerequisites)  
-5. [Environment Configuration](#environment-configuration)  
-6. [Virtual Environment Setup](#virtual-environment-setup)  
-7. [Installation](#installation)  
-8. [Project Structure & Document Handling](#project-structure--document-handling)  
-9. [Running the Application](#running-the-application)  
-10. [Usage Instructions](#usage-instructions)  
-11. [Troubleshooting](#troubleshooting)  
-12. [Additional Notes](#additional-notes)
+3. [Project Rationale and Constraints](#project-rationale-and-constraints)  
+4. [Key Features](#key-features)  
+5. [Repository Overview](#repository-overview)  
+6. [Prerequisites](#prerequisites)  
+7. [Environment Configuration](#environment-configuration)  
+8. [Virtual Environment Setup](#virtual-environment-setup)  
+9. [Installation](#installation)  
+10. [Project Structure & Document Handling](#project-structure--document-handling)  
+11. [Running the Application](#running-the-application)  
+12. [Usage Instructions](#usage-instructions)  
+13. [Troubleshooting](#troubleshooting)  
+14. [Additional Notes](#additional-notes)
 
 ---
 
@@ -40,6 +42,26 @@ Explore the difference between classic and **Colpali-based systems**:
 <img width="1243" alt="Screenshot 2024-12-28 at 15 13 15" src="https://github.com/user-attachments/assets/a6bc5d28-7cb0-4d79-af61-279f7dc42e9b" />
 
 *Source: [Medium Article](https://medium.com/@simeon.emanuilov/colpali-revolutionizing-multimodal-document-retrieval-324eab1cf480)*
+
+---
+
+## **Project Rationale and Constraints**
+
+### Goals
+
+1. **Complex Document Support**: Process documents with mixed content (text, tables, graphs, images).
+2. **Answer Transparency**: Allow users to verify answers by referencing the exact page or snippet.
+3. **Performance Balance**: Indexing may take time; retrieval must be instantaneous.
+4. **Standalone System**: No integration with external systems was required.
+
+---
+
+## **Key Features**
+
+1. **Multimodal Processing**: Combines text and visual embeddings for better retrieval accuracy.
+2. **Transparent UI**: Users can view referenced pages/snippets for validation.
+3. **Performance Optimization**: Instantaneous query resolution despite computationally heavy indexing.
+4. **Stand-Alone Application**: Requires no external system integration, simplifying deployment.
 
 ---
 
